@@ -5,4 +5,3 @@ class IObserver {
   virtual void update() = 0;
   virtual ~IObserver() = default;
 };
-
